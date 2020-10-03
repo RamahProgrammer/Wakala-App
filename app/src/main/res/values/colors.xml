@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="card_big_color">#f6f6f6</color>
+    <color name="title_text_color">#258bd6</color>
+    <color name="content_text_color">#fb3b3b</color>
+    <color name="color_808080">#808080</color>
+
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_green">#097E14</color>
+    <color name="color_fb">#3441C6</color>
+    <color name="color_summer">#D15427</color>
+    <color name="color_winter">#005173</color>
+    <color name="color_light_gray">#D3D3D3</color>
+
+    <color name="mine">#F8C4C4</color>
+
+    <color name="mine1">#D17474</color>
+    <color name="mine2">#ffff</color>
+</resources>
